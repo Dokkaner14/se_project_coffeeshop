@@ -24,7 +24,7 @@
 }
 
 .header__description {
-  font-family: "Noto Seriff";
+  font-family: "Noto", Seriff;
   margin: 28px 0 0;
   max-width: 683px;
   font-size: 20px;
