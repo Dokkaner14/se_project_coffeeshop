@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+In future versions of the website i plan on adding a tutorials page as well as expanding on the recipes.
